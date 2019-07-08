@@ -1,0 +1,11 @@
+/* Style The Page */
+
+ul {
+    list-style-type: none;
+}
+
+#info {
+    border: 1px black solid;
+    background-color: blanchedalmond;
+    padding: 20px;
+}
